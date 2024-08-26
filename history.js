@@ -20,6 +20,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     backButton.onclick = () => {
-        window.location.href = 'index3.html';
+        window.location.href = 'index.html';
     };
 });
